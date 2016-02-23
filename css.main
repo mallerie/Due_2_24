@@ -1,0 +1,47 @@
+h1, h2 {
+  font-family: georgia;
+}
+
+h1 {
+  color: green;
+  background-color: #cccc00;
+}
+
+h2 {
+  color: #cccc00;
+  background-color: green;
+  font-style: oblique;
+}
+
+h3 {
+  color: purple;
+}
+
+body {
+  background-color: #cce6ff;
+  font-family: Georgia;
+}
+
+.whitebackground {
+ background-color: white;
+}
+
+a {
+  color: teal;
+}
+
+li {
+  font-size: 24px;
+  color:blue;
+}
+
+li p {
+  font-size: 16px; 
+}
+
+p {
+  background-color: pink;
+  color:grey;
+}
+
+
