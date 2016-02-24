@@ -43,9 +43,9 @@ li img {
     z-index: -1;
 }
 
-.whitebackground {
+/*.whitebackground {
  background-color: white;
-}
+}*/
 
 a {
   color: teal;
@@ -60,8 +60,14 @@ li {
   float: left;
 }
 
+div2 {
+  position: relative;
+  right: 10px;
+}
+
 li p {
   font-size: 16px; 
+  max-width: 40%;
 }
 
 p {
