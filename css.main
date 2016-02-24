@@ -36,17 +36,6 @@ body {
   font-family: Georgia;
 }
 
-li img {
-    position: static;
-    left: 0px;
-    top: 0px;
-    z-index: -1;
-}
-
-/*.whitebackground {
- background-color: white;
-}*/
-
 a {
   color: teal;
 }
@@ -56,11 +45,7 @@ li {
   color:blue;
 }
 
-.best {
-  float: left;
-}
-
-div2 {
+.div2 li {
   position: relative;
   right: 10px;
 }
