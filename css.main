@@ -36,6 +36,13 @@ body {
   font-family: Georgia;
 }
 
+img {
+    position: static;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}
+
 .whitebackground {
  background-color: white;
 }
